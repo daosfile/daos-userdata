@@ -16,7 +16,7 @@
       "list": [
         {
           "cmd": "mkdir",
-          "args": ["/workspaces"]
+          "args": ["-p", "/workspaces"]
         },
         {
           "cmd": "mkdir",
